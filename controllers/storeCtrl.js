@@ -1,5 +1,9 @@
-const getAllStores = (req,res)=>{
-    res.status(200).send("GET ALL STORES")
+const Store = require('../models/store')
+
+const getAllStores = async(req,res)=>{
+    const store = await Store.find({})
+    res.status(200).json({store,numberOfHits: store.length})
+    // throw new Error('Something went wrong')
 }
 
 const getSingleStore = (req,res)=>{

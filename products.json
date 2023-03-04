@@ -1,0 +1,122 @@
+[
+    {
+        "name":"IPhone X 3GB RAM+64GB(Renewed) -Black",
+        "price": 175000,
+        "featured":true,
+        "category":"phone"
+    },
+    {
+        "name":"IPhone 6 16GB(Refurbished) - Gold - 4.7 Inch Grade A",
+        "price": 131000,
+        "featured":true,
+        "category":"phone"
+    },
+    {
+        "name":"IPhone 6 16GB(Refurbished) - Space Grey - 4.7 Inch Grade A",
+        "price": 120000,
+        "featured":true,
+        "category":"phone"
+    },
+    {
+        "name":"Tecno Camon 18i (CG6) 6.6inches 4GB/128GB Android 11, 5000mAh - Blue",
+        "price": 90000,
+        "featured":true,
+        "category":"phone"
+    },
+    {
+        "name":"XIAOMI A1 Plus, 6.52inches 4G LTE, 2GB/32GB Memory",
+        "price": 58000,
+        "featured":false,
+        "category":"phone"
+    },
+    {
+        "name":"Samsung Galaxy A23, 4GB/128GB Memory, Android 12 - Blue",
+        "price": 160000,
+        "featured":false,
+        "category":"phone"
+    },
+    {
+        "name":"Multipurpose Wooden Foldable Laptop Table With Cup Hole.",
+        "price": 9000,
+        "featured":false,
+        "category":"furnitures"
+    },
+    {
+        "name":"Versa Laptop Table Home And Office Table",
+        "price": 21000,
+        "featured":true,
+        "category":"furnitures"
+    },
+    {
+        "name":"Gem Brown Office Table",
+        "price": 30000,
+        "featured":false,
+        "category":"furnitures"
+    },
+    {
+        "name":"Adjustable Laptop Table With Cooling Fan & Mouse Pad",
+        "price": 21000,
+        "featured":true,
+        "category":"furnitures"
+    },
+    {
+        "name":"EAMES INSPIRED EIFFEL PLASTIC CHAIR WHITE",
+        "price": 23000,
+        "featured":true,
+        "category":"furnitures"
+    },
+    {
+        "name":"Portable Laptop & Bed Side Table",
+        "price": 27000,
+        "featured":false,
+        "category":"furnitures"
+    },
+    {
+        "name":"Emel Recline Ergonomic Executive Office Chair",
+        "price": 90000,
+        "featured":true,
+        "category":"furnitures"
+    },
+    {
+        "name":"Sleek Executive Leather Chair",
+        "price": 91000,
+        "featured":false,
+        "category":"furnitures"
+    },
+    {
+        "name":"ADIDAS Originals Sneakers Superstar Women",
+        "price": 77000,
+        "featured":true,
+        "category":"shoes"
+    },
+    {
+        "name":"Beautiful Leather Female Sneakers",
+        "price": 12000,
+        "featured":false,
+        "category":"shoes"
+    },
+    {
+        "name":"ADIDAS Originals Sneakers Superstar Women",
+        "price": 77000,
+        "featured":true,
+        "category":"shoes"
+    },
+    {
+        "name":"New Female Fashionable Sneakers - White",
+        "price": 7000,
+        "featured":true,
+        "category":"shoes"
+    },
+    {
+        "name":"Trendy Women Fashion Sneakers. Multi",
+        "price": 6000,
+        "featured":true,
+        "category":"shoes"
+    },
+    {
+        "name":"2022 Womens Casual Socks Shoes Running Sneakers - Black",
+        "price": 7000,
+        "featured":true,
+        "category":"shoes"
+    }
+]
